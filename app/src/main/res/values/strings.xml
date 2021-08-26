@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Employees</string>
+    <string name="name">Name</string>
+    <string name="salary">Salary</string>
+    <string name="age">Age</string>
+    <string name="submit">Submit</string>
+    <string name="home">New Employees</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="current_employees">Current Employees</string>
+    <string name="edit_employee">Edit Employee</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
